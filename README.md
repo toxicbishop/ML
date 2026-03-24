@@ -4,30 +4,30 @@ Welcome to the **BCSL606: Machine Learning Basics** repository. This project is 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The repository is organized into sequential folders, each representing a specific experiment or topic in the Machine Learning curriculum.
 
-| Folder | Topic | Description |
-| :--- | :--- | :--- |
-| `01/` | **Data Exploration & Outlier Detection** | Analysis of the California Housing dataset, outlier detection using Interquartile Range (IQR), and visual distribution analysis. |
-| `02/` | **Correlation & Pair Relationships** | Visualizing feature correlations using Heatmaps and Pair Plots to understand data dependencies. |
-| `03/` | **Dimensionality Reduction (PCA)** | Implementing Principal Component Analysis on the Iris dataset to visualize high-dimensional data in 2D. |
-| `04/` | **Concept Learning (Find-S)** | Implementing the Find-S algorithm to find the most specific hypothesis from a dataset. |
-| `05/` | **k-Nearest Neighbors (k-NN)** | Instance-based learning using Euclidean distance to classify 1D data points. |
-| `06/` | **Locally Weighted Regression** | Non-parametric regression using a Gaussian kernel to fit a noisy sine wave. |
-| `07/` | **Linear & Polynomial Regression** | Linear and Polynomial Regression using California Housing and Auto MPG datasets. |
-| `08/` | **Decision Tree Classifier** | Tree-based classification on the Breast Cancer dataset using the CART algorithm. |
-| `09/` | **Naïve Bayes Classifier** | Probabilistic classification using Gaussian Naïve Bayes on the Olivetti Faces dataset. |
-| `10/` | **K-Means Clustering** | Unsupervised learning and PCA visualization on the Breast Cancer dataset. |
+| Folder | Topic                                    | Description                                                                                                                      |
+| :----- | :--------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| `01/`  | **Data Exploration & Outlier Detection** | Analysis of the California Housing dataset, outlier detection using Interquartile Range (IQR), and visual distribution analysis. |
+| `02/`  | **Correlation & Pair Relationships**     | Visualizing feature correlations using Heatmaps and Pair Plots to understand data dependencies.                                  |
+| `03/`  | **Dimensionality Reduction (PCA)**       | Implementing Principal Component Analysis on the Iris dataset to visualize high-dimensional data in 2D.                          |
+| `04/`  | **Concept Learning (Find-S)**            | Implementing the Find-S algorithm to find the most specific hypothesis from a dataset.                                           |
+| `05/`  | **k-Nearest Neighbors (k-NN)**           | Instance-based learning using Euclidean distance to classify 1D data points.                                                     |
+| `06/`  | **Locally Weighted Regression**          | Non-parametric regression using a Gaussian kernel to fit a noisy sine wave.                                                      |
+| `07/`  | **Linear & Polynomial Regression**       | Linear and Polynomial Regression using California Housing and Auto MPG datasets.                                                 |
+| `08/`  | **Decision Tree Classifier**             | Tree-based classification on the Breast Cancer dataset using the CART algorithm.                                                 |
+| `09/`  | **Naïve Bayes Classifier**               | Probabilistic classification using Gaussian Naïve Bayes on the Olivetti Faces dataset.                                           |
+| `10/`  | **K-Means Clustering**                   | Unsupervised learning and PCA visualization on the Breast Cancer dataset.                                                        |
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run these experiments locally, follow the steps below.
 
-### 📋 Prerequisites
+### Prerequisites
 
 Ensure you have Python installed. It is recommended to create a virtual environment before installing the required libraries.
 
@@ -48,7 +48,7 @@ Install the required libraries using the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-### 🏃 How to Run
+### How to Run
 
 1. Clone the repository:
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Experiments Overview
+## Experiments Overview
 
 ### 1. Data Exploration & Outliers (`01/`)
 
